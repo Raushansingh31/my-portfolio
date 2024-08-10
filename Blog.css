@@ -1,0 +1,26 @@
+.BlogContainer{
+    margin: 100px;
+}
+.BlogItem{
+    margin: 20px;
+}
+.BlogContainer h1{
+    margin-left: 20px;
+}
+.BlogItem h2{
+    margin-bottom: 5px;
+
+}
+.BlogItem p{
+}
+.button-g{
+    border-radius: 5px;
+    background-color: bisque;
+    color: black;
+    width: 90px;
+    margin-top: 5px;
+}
+.button-g:hover{
+    background-color: rgb(155, 140, 140);
+    cursor: pointer;
+}
